@@ -1,2 +1,2 @@
 # Novels
-personal novel library
+个人在看的一些小说，主要来源是百度贴吧，一些细节的格式有过调整。
